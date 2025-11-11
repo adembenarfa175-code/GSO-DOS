@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;AN000;A2
 	TITLE	GRTABP.SAL - GRAFTABL SYSTEM COMMAND LINE PARSER ;AN000;
 ;****************** START OF SPECIFICATIONS *****************************

@@ -1,3 +1,5 @@
+BITS 64
+
 ; ACUTE lc y added
 ; ****** CNS 12/18
 ; ****** CNS 01/21 NUM PAD

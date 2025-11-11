@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;A2
 	TITLE	GRTABHAN - INTERRUPT HANDLER FOR INT 2FH, GRAFTABL LOADED
 ;****************** START OF SPECIFICATIONS *****************************

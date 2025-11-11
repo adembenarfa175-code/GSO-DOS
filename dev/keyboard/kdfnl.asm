@@ -1,3 +1,5 @@
+BITS 64
+
 ;; LATEST CHANGE ALT & CTL
 	PAGE	,132
 	TITLE	DOS - Keyboard Definition File

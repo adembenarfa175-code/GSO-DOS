@@ -1,3 +1,5 @@
+BITS 64
+
 
 PAGE	85,132				;Set for 5182 Pageprinter
 					;85 lines per page, 132 col per line

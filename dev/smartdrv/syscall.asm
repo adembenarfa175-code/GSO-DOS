@@ -1,3 +1,5 @@
+BITS 64
+
 BREAK <system call definitions>
 
 Abort				EQU 0	;  0	  0

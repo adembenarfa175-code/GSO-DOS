@@ -1,3 +1,5 @@
+BITS 64
+
 
 ;****************************************************
 ;* TRANSIENT MESSAGE POINTERS & SUBSTITUTION BLOCKS *

@@ -1,3 +1,5 @@
+BITS 64
+
 	Title	Sharesr -  GSO CONFIDENTIAL
 ;				   $SALUT (0,36,41,44)
 				   include SHAREHDR.INC

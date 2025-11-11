@@ -1,3 +1,5 @@
+BITS 64
+
 	Title	Share_2
 ;				   $SALUT (0,36,41,44)
 				   include SHAREHDR.INC

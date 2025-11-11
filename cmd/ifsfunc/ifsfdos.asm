@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			; 						 ;AN000;
 ;	SCCSID = @(#)ifsfdos.asm	1.0 87/08/29					 ;AN000;
 TITLE	IFSFUNC DOS CALLBACK ROUTINES - Routines for ifs				 ;AN000;

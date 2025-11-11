@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)fcbio2.asm 1.2 85/07/23
 ;	SCCSID = @(#)fcbio2.asm 1.2 85/07/23
 TITLE	FCBIO2 - FCB system calls

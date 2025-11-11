@@ -1,3 +1,5 @@
+BITS 64
+
 ;======================= START OF SPECIFICATIONS =========================
 ;
 ; MODULE NAME: DEBEQU.SAL

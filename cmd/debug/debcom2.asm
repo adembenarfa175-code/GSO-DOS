@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	60,132 ;
 	TITLE	DEBCOM2.ASM - PART2 DEBUGGER COMMANDS	PC DOS
 ;======================= START OF SPECIFICATIONS =========================

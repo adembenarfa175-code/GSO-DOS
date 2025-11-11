@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE    60,132
 TITLE   INDEIDT - 386 XMA Emulator - Build Interrupt Descriptor Table
 

@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;A2
 	TITLE	COPYINIT -- DISKCOPY INITIALIZATION PROGRAM
 ;****************** START OF SPECIFICATIONS *****************************

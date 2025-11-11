@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)abort.asm	1.4 85/10/02
 TITLE   DOS_ABORT - Internal SFT close all files for proc call for GSODOS
 NAME    DOS_ABORT

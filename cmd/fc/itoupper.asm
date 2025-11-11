@@ -1,3 +1,5 @@
+BITS 64
+
 .xlist
 include version.inc
 include cmacros.inc

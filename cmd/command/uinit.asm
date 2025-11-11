@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)uinit.asm	4.5 85/12/04
 ;	SCCSID = @(#)uinit.asm	4.5 85/12/04

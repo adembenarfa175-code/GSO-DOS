@@ -1,3 +1,5 @@
+BITS 64
+
 	Page 84,132 ;
 Title	FASTOPEN
 

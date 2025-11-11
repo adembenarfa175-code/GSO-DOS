@@ -1,3 +1,5 @@
+BITS 64
+
  TITLE	 CHKDSK - MS-DOS Disk consistancy checker ;
 page	,132					;
 

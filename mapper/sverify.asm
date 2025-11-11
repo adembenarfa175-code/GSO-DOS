@@ -1,3 +1,5 @@
+BITS 64
+
 page 80,132
 
 title CP/DOS DosSetVerify mapper

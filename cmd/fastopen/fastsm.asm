@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;A2
 	TITLE	fastsm.SAL - fastopen SYSTEM MESSAGES
 ;****************** START OF SPECIFICATIONS *****************************

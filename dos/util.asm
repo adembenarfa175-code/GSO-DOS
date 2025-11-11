@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)util.asm	1.1 85/04/10
 TITLE   UTIL - Handle utilities
 NAME    UTIL

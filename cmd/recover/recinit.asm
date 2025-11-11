@@ -1,3 +1,5 @@
+BITS 64
+
 					;AN000;bgb
 page	,132				;
 TITLE	RECINIT.SAL - MS-DOS File/Disk Recovery Utility

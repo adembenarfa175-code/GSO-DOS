@@ -1,3 +1,5 @@
+BITS 64
+
 CODE    SEGMENT PARA PUBLIC 'CODE'      ;AN000;segment for near routine
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
         PUBLIC  _MAIN                   ;AN000;

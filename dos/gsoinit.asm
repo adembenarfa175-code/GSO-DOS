@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)msinit.asm 1.2 85/07/23
 ; TITLE MSINIT.ASM -- MS-DOS INITIALIZATION CODE
 ; AN000 version GSO Jan. 1988

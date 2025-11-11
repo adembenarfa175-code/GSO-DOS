@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)create.asm 1.6 85/08/19
 TITLE	DOS_CREATE/DOS_CREATE_NEW - Internal CREATE calls for MS-DOS
 NAME	DOS_CREATE

@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)STDIOCTL.INC	1.1 85/04/10
 GSO-DOS   EQU     0          ;FALSE
 

@@ -1,3 +1,5 @@
+BITS 64
+
 page	60,132				;
 name	_replace
 title	Critical error or control break exit

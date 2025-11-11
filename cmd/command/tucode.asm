@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)tucode.asm 4.2 85/05/31
 ;	SCCSID = @(#)tucode.asm 4.2 85/05/31

@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE ,132 ;														   ;AN000;
 TITLE MODECOM.ASM - RS232 SUPPORT FOR THE MODE COMMAND									   ;AN000;
 															   ;AN000;

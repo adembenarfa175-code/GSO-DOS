@@ -1,3 +1,5 @@
+BITS 64
+
 ;       SCCSID = @(#)rom.asm    1.1 85/04/10
 TITLE   ROM - Miscellaneous routines
 NAME    ROM

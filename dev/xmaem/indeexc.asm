@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE    60,132
 TITLE   INDEEXC - 386 XMA EMULATOR - System Exception Handler
 

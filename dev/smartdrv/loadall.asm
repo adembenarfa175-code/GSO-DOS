@@ -1,3 +1,5 @@
+BITS 64
+
 BREAK	<LOADALL descriptor caches>
 
 DEF_ACCESS	EQU	92H

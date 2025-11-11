@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dosmes.asm 1.7 85/10/23
 ;	SCCSID = @(#)dosmes.asm 1.7 85/10/23
 ;

@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)search.asm 1.1 85/04/10
 TITLE	SEARCH - Directory scan system calls
 NAME	SEARCH

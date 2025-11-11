@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	60,132;
 	title	EDLIN Messages
 ;======================= START OF SPECIFICATIONS =========================

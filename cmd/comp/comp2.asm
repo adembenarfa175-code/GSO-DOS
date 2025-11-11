@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			;
 	title	COMP2.SAL - COMPARES FILES
 ;****************** START OF SPECIFICATIONS *****************************

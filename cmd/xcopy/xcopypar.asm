@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			;
 	TITLE	XCOPYPAR.SAL - LOOK AT COMMAND LINE PARMS
 ;****************** START OF SPECIFICATIONS *****************************

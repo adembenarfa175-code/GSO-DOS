@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dircall.asm	1.1 85/04/10
 ;	SCCSID = @(#)dircall.asm	1.1 85/04/10
 TITLE DIRCALL - Directory manipulation internal calls

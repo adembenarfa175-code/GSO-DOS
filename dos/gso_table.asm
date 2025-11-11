@@ -1,3 +1,5 @@
+BITS 64
+
 ;       SCCSID = @(#)mstable.asm        1.3 85/07/25
 ;       Revision history:
 ;         A000   version GSO  Jan. 1988

@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)rucode.asm 4.5 85/07/22
 ;	SCCSID = @(#)rucode.asm 4.5 85/07/22

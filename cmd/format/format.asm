@@ -1,3 +1,5 @@
+BITS 64
+
 page   84,132
 ;
 ;	SCCSID = @(#)format.asm 1.26 85/10/20

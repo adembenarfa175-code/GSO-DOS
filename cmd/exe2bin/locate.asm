@@ -1,3 +1,5 @@
+BITS 64
+
 ;       SCCSID = @(#)locate.asm 4.3 85/09/13
 Title   LOCATE (EXE2BIN)
 

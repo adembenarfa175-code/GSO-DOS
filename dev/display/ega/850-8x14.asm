@@ -1,3 +1,5 @@
+BITS 64
+
 ;***************************************************
 ;  CHARACTER FONT FILE
 ;  Source Assembler File

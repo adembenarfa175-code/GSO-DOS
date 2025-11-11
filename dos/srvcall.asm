@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)srvcall.asm	1.4 85/08/02
 TITLE SRVCALL - Server DOS call
 NAME  SRVCALL

@@ -1,3 +1,5 @@
+BITS 64
+
         PAGE    ,132                            ; 
 ;       SCCSID = @(#)SHARELNK.asm 1.0 87/05/11
 TITLE   SHARELNK LINK FIX ROUTINES - Routines to resolve SHARE externals

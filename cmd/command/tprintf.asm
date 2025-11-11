@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)tprintf.asm	4.3 85/07/02
 ;	SCCSID = @(#)tprintf.asm	4.3 85/07/02

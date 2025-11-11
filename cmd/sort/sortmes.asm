@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	SORT Messages
 
 false	equ	0

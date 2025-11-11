@@ -1,3 +1,5 @@
+BITS 64
+
 	page	60,132
 ;			$SALUT (4,25,30,41)
 			INCLUDE pridefs.INC

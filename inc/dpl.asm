@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dpl.asm	1.1 85/04/10
 ;	SCCSID = @(#)dpl.asm	1.1 85/04/10
 DPL	STRUC

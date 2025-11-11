@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)proc.asm	1.1 85/04/10
 TITLE	GSOPROC - process maintenance
 NAME	GSOPROC

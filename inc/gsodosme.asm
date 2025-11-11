@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)GSOdosmes.asm	1.1 85/04/10
 ;
 ; Standard device IO for GSODOS (first 12 function calls)

@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)ctrlc.asm	1.4 85/08/16
 ; Low level routines for detecting special characters on CON input,
 ;	the ^C exit/int code, the Hard error INT 24 code, the

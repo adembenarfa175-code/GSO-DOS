@@ -1,3 +1,5 @@
+BITS 64
+
 ;       BOOT - GSO hard disk boot record             6/8/82
 ;
 ;

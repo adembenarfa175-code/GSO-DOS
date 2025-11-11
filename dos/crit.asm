@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)crit.asm	1.1 85/04/10
 TITLE CRIT - Critical Section Routines
 NAME  CRIT

@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132								;AN000;
 	TITLE	DOS - GRAPHICS Command  -	Profile Load Modules		;AN000;
 										;AN000;

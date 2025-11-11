@@ -1,3 +1,5 @@
+BITS 64
+
 	TITLE	Message texts for FLUSH13
 
 PAGE	58,132

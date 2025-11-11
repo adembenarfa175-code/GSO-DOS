@@ -1,3 +1,5 @@
+BITS 64
+
 
 CODE	segment public 'code'
 ASSUME	CS:CODE,DS:NOTHING,ES:NOTHING,SS:NOTHING

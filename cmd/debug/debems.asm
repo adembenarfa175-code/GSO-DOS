@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	60,132 ;
 	TITLE	DEBEMS.SAL - EMS DEBUGGER COMMANDS   PC DOS
 ;======================= START OF SPECIFICATIONS =========================

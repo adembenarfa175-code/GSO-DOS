@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)GSOhalo.asm	1.1 85/04/10
 ;   On 2K (800h) boundaries beginning at address C0000h and ending at EF800h
 ;   there is a header that describes a block of rom program.  This header

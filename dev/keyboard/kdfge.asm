@@ -1,3 +1,5 @@
+BITS 64
+
 ;; LATEST CHANGE ALT & CTL "Z & Y", "-" symbol  (AT)
 ;; Eliminated zero scan tag from alpha upper CP section
 ;; SECTION SYMBOL

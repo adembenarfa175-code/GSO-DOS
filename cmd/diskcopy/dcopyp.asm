@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;AN000;A2
 	TITLE	DCOPYP.SAL - DISKCOPY SYSTEM COMMAND LINE PARSER
 ;****************** START OF SPECIFICATIONS *****************************

@@ -1,3 +1,5 @@
+BITS 64
+
 	INCLUDE SYSHDR.INC
 
 ; include SYSMSG.INC

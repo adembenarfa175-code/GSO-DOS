@@ -1,3 +1,5 @@
+BITS 64
+
 page	60,132				;AN000;
 name	asm2c				;AN000;
 title	Limited assembler to C interface;AN000;

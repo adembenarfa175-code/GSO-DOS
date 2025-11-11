@@ -1,3 +1,5 @@
+BITS 64
+
 	page 58,132
 ;******************************************************************************
 	title	EMMINC.ASM - lists all EMMLIB.LIB include files

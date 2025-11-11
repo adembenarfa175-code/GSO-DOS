@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)disk.asm	1.1 85/04/10
 ;	SCCSID = @(#)disk.asm	1.1 85/04/10
 TITLE	DISK - Disk utility routines

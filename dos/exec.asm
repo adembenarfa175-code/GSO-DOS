@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)exec.asm	1.3 85/08/13
 ;	SCCSID = @(#)exec.asm	1.3 85/08/13
 ;    AN000 version GSO jan. 1988

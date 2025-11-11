@@ -1,3 +1,5 @@
+BITS 64
+
 page	60,132								 ;AN000;
 name	_msgret 							 ;AN000;
 title	C	to Message Retriever					 ;AN000;

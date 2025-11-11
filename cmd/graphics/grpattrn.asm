@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132								;AN000;
 	TITLE	DOS - GRAPHICS Command  -	Common modules			;AN000;
 .xlist										;AN000;

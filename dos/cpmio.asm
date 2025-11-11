@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)cpmio.asm	1.1 85/04/10
 TITLE	CPMIO - device IO for GSODOS
 NAME	CPMIO

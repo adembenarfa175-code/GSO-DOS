@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			;
 	TITLE	LABELM.SAL - MESSAGE HANDLER FOR LABEL UTILITY
 ;*****************************************************************************

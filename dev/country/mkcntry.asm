@@ -1,3 +1,5 @@
+BITS 64
+
 	page	84,132
 ; July 8, 1986 - updated Finland for 437 dcl.
 ; July 8, 1986 - updated Netherland for 437 dcl.

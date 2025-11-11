@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)GSOctrlc.asm	1.1 85/04/10
 ;
 ; ^C and error handler for GSODOS

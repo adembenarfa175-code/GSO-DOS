@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE	,132
 TITLE	DOS - LAD Keyboard Definition File
 ;; LATEST CHANGE ALT & CTL

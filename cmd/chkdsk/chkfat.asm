@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	CHKFAT	- procedures that acces the fat and/or fatmap
 page	,132					;
 

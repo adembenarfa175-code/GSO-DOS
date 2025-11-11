@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)fcb.asm	1.2 85/07/23
 ;	SCCSID = @(#)fcb.asm	1.2 85/07/23
 TITLE	FCB - FCB parse calls for GSODOS

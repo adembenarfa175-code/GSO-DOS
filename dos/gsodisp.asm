@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)GSOdisp.asm	1.1 85/04/10
 TITLE	GSO DOS DISPATCHER - System call dispatch code
 NAME	DISP

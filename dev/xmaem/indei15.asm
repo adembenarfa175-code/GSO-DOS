@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE    60,132
 TITLE   INDEI15 - 386 XMA Emulator - Interrupt 15 handler
 

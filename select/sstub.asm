@@ -1,3 +1,5 @@
+BITS 64
+
 
 
 TITLE	 SELECT Stub			;AN000;

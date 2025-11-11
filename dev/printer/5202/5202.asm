@@ -1,3 +1,5 @@
+BITS 64
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
 ;    DESCRIPTION :  Code Page Switching 5202 Printer Font File

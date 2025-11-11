@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)command1.asm	1.1 85/05/14
 ;	SCCSID = @(#)command1.asm	1.1 85/05/14

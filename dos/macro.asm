@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)macro.asm	1.2 85/07/11
 TITLE	MACRO - Pathname and macro related internal routines
 NAME	MACRO

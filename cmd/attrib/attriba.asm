@@ -1,3 +1,5 @@
+BITS 64
+
 	page	,132			;
 	title	New_C.C - DOS entry to the KWC's 'C' programs
 

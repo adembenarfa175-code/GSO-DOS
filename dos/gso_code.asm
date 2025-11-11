@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)mscode.asm 1.2 85/07/23
 ;
 ; MSCODE.ASM -- GSODOS code

@@ -1,3 +1,5 @@
+BITS 64
+
 	   PAGE    60,132 ;
 	   TITLE DEBDATA.SAL - PC DOS
 ;======================= START OF SPECIFICATIONS =========================

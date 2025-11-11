@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dinfo.asm	1.1 85/04/10
 ;	SCCSID = @(#)dinfo.asm	1.1 85/04/10
 TITLE	DISK_INFO - Internal Get Disk Info

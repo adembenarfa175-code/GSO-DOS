@@ -1,3 +1,5 @@
+BITS 64
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
 ;	DUMMY DATA SEGMENT THAT WILL LINK WITH THE DATA.MAC

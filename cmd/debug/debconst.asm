@@ -1,3 +1,5 @@
+BITS 64
+
 	   PAGE    80,132 ;
 	   TITLE DEBCONST.ASM
 	   IF1

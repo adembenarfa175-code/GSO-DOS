@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132								;AN000;
 										;AN000;
 	TITLE	DOS GRAPHICS Command  -	Print screen Control module

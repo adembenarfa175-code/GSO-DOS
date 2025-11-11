@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	CHKPROC2 - PART2 Procedures called from chkdsk
 page	,132					;
 

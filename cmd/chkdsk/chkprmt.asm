@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	CHKPRMT - Procedures called from chkdsk which prompt			;an000;bgb
 page	,132					;				;an000;bgb
 										;an000;bgb

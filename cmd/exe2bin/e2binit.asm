@@ -1,3 +1,5 @@
+BITS 64
+
 
 Title	E2BINIT(EXE2BIN)
 

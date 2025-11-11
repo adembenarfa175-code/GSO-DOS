@@ -1,3 +1,5 @@
+BITS 64
+
 	page	80,132
 	TITLE	DOS - PRINT - RESIDENT
 ;			$SALUT (4,25,30,41)

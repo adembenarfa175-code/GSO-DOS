@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)forproc.asm	1.2 85/07/25
 ;
 .xlist

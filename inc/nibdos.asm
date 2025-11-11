@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)nibdos.asm	1.1 85/04/10
 TITLE	NIBDOS
 NAME	GSODOS_3

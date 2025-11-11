@@ -1,3 +1,5 @@
+BITS 64
+
 ;***************************************************************************
 ; Subroutines which are called by the macros in MACROS.INC.
 ; File: ROUTINES.ASM

@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE 60,132
 TITLE Edlcmd2 - PART2 procedures called from EDLIN
 

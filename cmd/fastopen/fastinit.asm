@@ -1,3 +1,5 @@
+BITS 64
+
 	Page 84,132 ;
 
 TITLE	FASTINIT - initialization code for FASTOPEN  (May 13, 1988)

@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)envdata.asm	1.1 85/05/14
 ;	SCCSID = @(#)envdata.asm	1.1 85/05/14
 ; This file is included by command.asm and is used as the default command

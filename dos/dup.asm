@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dup.asm	1.1 85/04/10
 ;	SCCSID = @(#)dup.asm	1.1 85/04/10
 TITLE	DOS_DUP - Internal SFT DUP (for network SFTs)

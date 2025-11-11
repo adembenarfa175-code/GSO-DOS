@@ -1,3 +1,5 @@
+BITS 64
+
 ; e forproc.sal= @(#)GSOfor.asm 1.28 85/10/15
 	name	OemFormatRoutines
 ;

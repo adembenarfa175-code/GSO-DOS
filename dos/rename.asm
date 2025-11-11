@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)rename.asm 1.1 85/04/10
 TITLE	DOS_RENAME - Internal RENAME call for MS-DOS
 NAME	DOS_RENAME

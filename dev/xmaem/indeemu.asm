@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE    60,132
 TITLE   INDEEMU - 386 XMA EMULATOR - Sensitive Instruction Emulator
 

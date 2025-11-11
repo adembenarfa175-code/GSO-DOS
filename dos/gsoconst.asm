@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)msconst.asm	1.4 85/09/12
 ;   Revision history
 ;      AN000  version GSO0  Jan. 1988

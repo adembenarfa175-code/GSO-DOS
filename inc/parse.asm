@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE				;AN000;
 ;  $SALUT (4,4,8,41)
 ;(deleted).XLIST

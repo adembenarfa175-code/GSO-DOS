@@ -1,3 +1,5 @@
+BITS 64
+
 ;       SCCSID = @(#)mknode.asm 1.5 85/08/29
 TITLE   MKNODE - Node maker
 NAME    MKNODE

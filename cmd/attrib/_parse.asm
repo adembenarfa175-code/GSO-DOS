@@ -1,3 +1,5 @@
+BITS 64
+
 page	60,132								 ;AN000;
 name	_parse								 ;AN000;
 title	C	to PARSER interface					 ;AN000;

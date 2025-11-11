@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dev.asm	1.2 85/07/23
 ;	SCCSID = @(#)dev.asm	1.2 85/07/23
 TITLE	DEV - Device call routines

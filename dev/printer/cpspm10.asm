@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE	,132
 TITLE	DOS - Code Page Switching - Printer Device Driver
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

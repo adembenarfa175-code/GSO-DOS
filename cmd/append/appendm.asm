@@ -1,3 +1,5 @@
+BITS 64
+
 page	60,120
 ;      @@04 07/30/86 Fix second APPEND hang		 PTM P0000053
 ;      @@05 08/13/86 Fix bad parm message		PTM P0000125

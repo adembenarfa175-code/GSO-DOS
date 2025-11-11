@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	PRINTF ROUITNE FOR MS-DOS
 ;
 ; PRINTF(Control String, arg1, arg2,...,argn-1,argn)

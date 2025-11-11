@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)buf.asm	1.1 85/04/09
 TITLE	BUF - GSODOS buffer management
 NAME	BUF

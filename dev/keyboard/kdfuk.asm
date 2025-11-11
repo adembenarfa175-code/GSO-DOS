@@ -1,3 +1,5 @@
+BITS 64
+
 ;CODE to be deleted has a double ;; followed by actual asm code....****
 ;; LATEST CHANGE ALT & CTL
 

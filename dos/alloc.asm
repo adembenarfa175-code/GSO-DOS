@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)alloc.asm	1.1 85/04/09
 TITLE ALLOC.ASM - memory arena manager
 NAME Alloc

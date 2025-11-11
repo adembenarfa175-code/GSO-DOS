@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)iparse.asm 4.1 87/04/28
 ;	SCCSID = @(#)iparse.asm 4.1 87/04/28

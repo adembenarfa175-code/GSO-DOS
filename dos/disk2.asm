@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)disk2.asm	1.3 85/06/19
 ;	SCCSID = @(#)disk2.asm	1.3 85/06/19
 TITLE	DISK2 - Disk utility routines

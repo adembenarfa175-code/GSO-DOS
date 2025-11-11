@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dir2.asm	1.2 85/07/23
 ;	SCCSID = @(#)dir2.asm	1.2 85/07/23
 TITLE	DIR2 - Directory and path cracking

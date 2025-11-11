@@ -1,3 +1,5 @@
+BITS 64
+
 ;       SCCSID = @(#)msdata.asm 1.8 85/09/12
         AsmVars <Kanji, Debug, Redirector, ShareF>
  

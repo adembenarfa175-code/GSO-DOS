@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			;
 	TITLE	NLSPARM.SAL - NLSFUNC  SYSTEM COMMAND LINE PARSER
 ;****************** START OF SPECIFICATIONS *****************************

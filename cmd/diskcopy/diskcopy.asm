@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;A2
 	TITLE	DISKCOPY.SAL - DISKETTE DUPLICATION UTILITY ;
 ;****************** START OF SPECIFICATIONS *****************************

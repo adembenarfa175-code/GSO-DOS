@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;AN000;A2
 	TITLE	DCOMPSM.SAL - DISKCOMP SYSTEM MESSAGES
 ;****************** START OF SPECIFICATIONS *****************************

@@ -1,3 +1,5 @@
+BITS 64
+
 BREAK <Device table and SRH definition>
 
 ; The device table list has the form:

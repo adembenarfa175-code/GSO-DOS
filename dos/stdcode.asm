@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)stdcode.asm	1.1 85/04/10
 TITLE   MS-DOS MISC DOS ROUTINES - Int 25 and 26 handlers and other
 NAME    STDCODE

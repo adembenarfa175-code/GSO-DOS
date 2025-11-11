@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)fat.asm	1.3 85/08/15
 ;	SCCSID = @(#)fat.asm	1.3 85/08/15
 TITLE	FAT - FAT maintenance routines

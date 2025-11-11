@@ -1,3 +1,5 @@
+BITS 64
+
 	Page 84,132 ;
 Title	FASTOPEN
 ;Date: May 13,1988

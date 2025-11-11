@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)dir.asm	1.1 85/04/10
 ;	SCCSID = @(#)dir.asm	1.1 85/04/10
 TITLE	DIR - Directory and path cracking

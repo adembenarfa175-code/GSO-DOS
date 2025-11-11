@@ -1,3 +1,5 @@
+BITS 64
+
 ;
 ; blindingly fast assembly help for Z
 ;

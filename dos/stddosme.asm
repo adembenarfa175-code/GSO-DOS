@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)stddosmes.as	1.2 85/10/07
 ;	SCCSID = @(#)stddosmes.as	1.2 85/10/07
 ;

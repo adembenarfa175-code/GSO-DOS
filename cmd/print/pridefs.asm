@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)pridefs.asm	4.4 85/07/17
 title	DOS Print Utility
 

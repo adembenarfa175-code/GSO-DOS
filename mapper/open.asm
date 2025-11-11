@@ -1,3 +1,5 @@
+BITS 64
+
 page 80,132
 ;0
 title CP/DOS  DosOpen  mapper

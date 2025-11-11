@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)share.asm	1.1 85/04/10
 TITLE   SHARING ROUTINES - Routines for file Sharing
 NAME    SHARE

@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE	60,132
 TITLE	INDEINI - 386 XMA EMULATOR - Initialization
 

@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE 64,132 ;
 ;	SCCSID = @(#)driver.asm 4.13 85/10/15
 ;	SCCSID = @(#)driver.asm 4.13 85/10/15

@@ -1,3 +1,5 @@
+BITS 64
+
 	page	,132			;
 	title	COMP.SAL - COMPARE A PAIR OF FILES
 ;****************** START OF SPECIFICATIONS *****************************

@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)bugtyp.asm	1.1 85/04/09
 ;
 ; debugging types and levels for GSODOS

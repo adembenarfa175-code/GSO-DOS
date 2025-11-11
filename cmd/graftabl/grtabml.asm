@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;AN000;A2
 	TITLE	GRTABML - MULTI-LINGUAL EUROPEAN STANDARD ;AN000;
 ;This module is to be linked with the OBJ of GRTAB.SAL.  Refer to the

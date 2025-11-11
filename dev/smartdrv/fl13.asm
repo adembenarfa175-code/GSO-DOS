@@ -1,3 +1,5 @@
+BITS 64
+
 	TITLE	Assembler helper routines for FLUSH13
 
 PAGE	58,132

@@ -1,3 +1,5 @@
+BITS 64
+
 PAGE	60,132
 TITLE	INDEMSG - 80386 XMA Emulator - Messages
 

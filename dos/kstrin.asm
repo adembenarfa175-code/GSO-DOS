@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)strin.asm	1.2 85/04/18
 ;
 ;	Revision history:

@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)tdata.asm	4.3 85/05/17
 ;	SCCSID = @(#)tdata.asm	4.3 85/05/17

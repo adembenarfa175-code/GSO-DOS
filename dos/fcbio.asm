@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)fcbio.asm	1.5 85/07/30
 ;	SCCSID = @(#)fcbio.asm	1.5 85/07/30
 TITLE	FCBIO - FCB system calls

@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132				; 					 ;AN000;
 ;	SCCSID = @(#)ifsutil.asm	1.0 87/05/05					 ;AN000;
 TITLE	IFSFUNC UTILITY ROUTINES - Routines for IFSFUNC 				 ;AN000;

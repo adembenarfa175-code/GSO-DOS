@@ -1,3 +1,5 @@
+BITS 64
+
 ;-----------------------------------------------------------------------;
 ;       DATA THAT IS UNIQUE TO THE DIAGNOSTICS PORTION OF               ;
 ;       THE DEVICE DRIVER. THIS AREA WILL NOT REMAIN PRESENT            ;

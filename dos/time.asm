@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)time.asm	1.1 85/04/10
 TITLE	TIME - time and date functions
 NAME	TIME

@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)delete.asm 1.3 85/10/18
 ;	SCCSID = @(#)delete.asm 1.3 85/10/18
 TITLE	DOS_DELETE - Internal DELETE call for MS-DOS

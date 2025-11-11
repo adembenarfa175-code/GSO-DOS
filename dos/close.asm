@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)close.asm	1.1 85/04/09
 TITLE	DOS_CLOSE/COMMIT - Internal SFT close and commit call for GSODOS
 NAME	DOS_CLOSE

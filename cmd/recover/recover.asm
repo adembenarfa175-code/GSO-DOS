@@ -1,3 +1,5 @@
+BITS 64
+
 page	,132				;
 TITLE	RECOVER.SAL - MS-DOS File/Disk Recovery Utility
 ;----------------------------------------------------------

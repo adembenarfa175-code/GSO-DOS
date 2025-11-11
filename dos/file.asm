@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)file.asm	1.2 85/07/23
 ;	SCCSID = @(#)file.asm	1.2 85/07/23
 TITLE	FILE - Pathname related system calls

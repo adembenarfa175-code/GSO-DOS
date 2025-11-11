@@ -1,3 +1,5 @@
+BITS 64
+
 ;; LATEST CHANGE TO CTL [ and ] on XT moved to key 26 & 27
 ;; XT section enabled
 ;; ************* CNS 12/18/86

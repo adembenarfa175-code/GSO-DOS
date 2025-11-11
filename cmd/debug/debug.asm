@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	60,132			;
 	TITLE	DEBUG.SAL - DEBUGger for PC DOS
 

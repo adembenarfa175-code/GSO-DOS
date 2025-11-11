@@ -1,3 +1,5 @@
+BITS 64
+
 ;       Static Name Aliases
 ;
         TITLE   bootrec.asm - master boot record images for fdisk

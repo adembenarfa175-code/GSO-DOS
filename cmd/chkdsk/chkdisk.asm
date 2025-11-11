@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	CHKDISK  - procedures that read or write to the disk
 page	,132					;
 

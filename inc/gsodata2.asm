@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)GSOdata.asm	1.1 85/04/10
 ;
 ; DATA Segment for DOS

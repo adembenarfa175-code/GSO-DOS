@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)cpmio2.asm 1.1 85/04/11
 TITLE	CPMIO2 - device IO for GSODOS
 NAME	CPMIO2

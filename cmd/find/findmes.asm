@@ -1,3 +1,5 @@
+BITS 64
+
       title   FIND Messages
 
 Message macro	sym,text

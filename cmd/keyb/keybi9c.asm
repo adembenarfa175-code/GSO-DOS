@@ -1,3 +1,5 @@
+BITS 64
+
 
 	PAGE	,132
 	TITLE	DOS KEYB Command  -  Interrupt 9 (US support)

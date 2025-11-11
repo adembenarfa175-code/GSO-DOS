@@ -1,3 +1,5 @@
+BITS 64
+
 	   PAGE    80,132 ;
 	   TITLE DEBUASM.ASM
 ; Code for the UASSEMble command in the debugger

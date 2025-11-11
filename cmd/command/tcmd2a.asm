@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)tcmd2a.asm 4.1 85/06/25
 ;	SCCSID = @(#)tcmd2a.asm 4.1 85/06/25

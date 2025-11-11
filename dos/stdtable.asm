@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)stdtable.asm	1.1 85/04/10
 ;
 ; Table Segment for MS-DOS DOS

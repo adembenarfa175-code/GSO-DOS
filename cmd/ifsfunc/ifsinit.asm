@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			; 						 ;AN000;
 ;	SCCSID = @(#)ifsinit.asm	1.0 87/05/11					 ;AN000;
 TITLE	IFSFUNC INITIALIZATION ROUTINES - Routines for ifs				 ;AN000;

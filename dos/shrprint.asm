@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)shrprint.asm	1.1 85/04/10
 TITLE	SHRPRINT - PRINTF at SHARE level
 NAME	SHRPRINT

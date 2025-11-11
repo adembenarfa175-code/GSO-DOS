@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)fordata.asm	1.1 85/05/14
 ;	SCCSID = @(#)fordata.asm	1.1 85/05/14
 ; Data structure definitions included by tfor.asm

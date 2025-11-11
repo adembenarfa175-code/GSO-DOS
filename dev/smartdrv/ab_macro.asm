@@ -1,3 +1,5 @@
+BITS 64
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;
 ;	MACRO definitions for expanded memory manager

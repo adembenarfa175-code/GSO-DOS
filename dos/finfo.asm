@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)finfo.asm	1.1 85/04/11
 TITLE	FILE_INFO - Internal Get/Set File Info routines
 NAME	FILE_INFO

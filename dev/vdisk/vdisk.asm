@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132
 	TITLE	VDISK - Virtual Disk Device Driver
 

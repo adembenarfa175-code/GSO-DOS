@@ -1,3 +1,5 @@
+BITS 64
+
 BREAK <Machine instruction, flag definitions and character types>
 
 mi_INT		EQU	0CDh

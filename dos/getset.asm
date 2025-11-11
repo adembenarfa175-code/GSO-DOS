@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)getset.asm 1.2 85/07/23
 TITLE  GETSET - GETting and SETting MS-DOS system calls
 NAME   GETSET

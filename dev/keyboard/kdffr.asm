@@ -1,3 +1,5 @@
+BITS 64
+
 ;; LATEST CHANGE ALT & CTL  disenabled US invalids
 ;; Section symbol scan code incorrect
 ;; zero scan code tag deleted from end of tag field

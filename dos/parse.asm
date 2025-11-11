@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)parse.asm	1.2 85/07/23
 TITLE PARSE - Parsing system calls for MS-DOS
 NAME  PARSE

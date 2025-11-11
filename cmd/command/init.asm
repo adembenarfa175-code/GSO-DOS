@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)init.asm	4.13 85/11/03
 ;	SCCSID = @(#)init.asm	4.13 85/11/03

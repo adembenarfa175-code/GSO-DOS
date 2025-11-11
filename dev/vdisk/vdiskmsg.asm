@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132
 	TITLE	VDISKMSG - VDISK message library
 

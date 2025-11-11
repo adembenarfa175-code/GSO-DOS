@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132								;AN000;
 	TITLE	DOS GRAPHICS Command  -	Color printing modules
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;					;AN000;

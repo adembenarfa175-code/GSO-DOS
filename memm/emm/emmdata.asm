@@ -1,3 +1,5 @@
+BITS 64
+
 page	58,132
 ;******************************************************************************
 	title	EMMDATA - EMM data structures definitions

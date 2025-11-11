@@ -1,3 +1,5 @@
+BITS 64
+
 	page	60,132			;
 
 	.xlist

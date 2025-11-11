@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	CHKPROC - PART1 Procedures called from chkdsk
 page	,132					;
 

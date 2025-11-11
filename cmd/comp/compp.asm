@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			;
 	TITLE	COMPP.SAL - COMP SYSTEM COMMAND LINE PARSER
 ;****************** START OF SPECIFICATIONS *****************************

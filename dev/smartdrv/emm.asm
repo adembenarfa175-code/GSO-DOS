@@ -1,3 +1,5 @@
+BITS 64
+
 BREAK	<EMM control sector layout>
 
 ;

@@ -1,3 +1,5 @@
+BITS 64
+
 	 PAGE	 ,132				; 					 ;AN000;
 ;	SCCSID = @(#)ifsdev.asm 1.0 87/05/11						 ;AN000;
 TITLE	IFSFUNC DEVICE ROUTINES - Device/IOCTL routines 				 ;AN000;

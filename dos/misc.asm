@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)misc.asm	1.1 85/04/10
 TITLE MISC - Miscellanious routines for MS-DOS
 NAME  MISC

@@ -1,3 +1,5 @@
+BITS 64
+
  page 80,132
 ;	SCCSID = @(#)tenv.asm	4.2 85/08/16
 ;	SCCSID = @(#)tenv.asm	4.2 85/08/16

@@ -1,3 +1,5 @@
+BITS 64
+
 TITLE	EXTATTR- Extended Attributes
 NAME	EXTATTR
 ;

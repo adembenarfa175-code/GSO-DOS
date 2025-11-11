@@ -1,3 +1,5 @@
+BITS 64
+
 ;	SCCSID = @(#)disk3.asm	1.3 85/07/26
 ;	SCCSID = @(#)disk3.asm	1.3 85/07/26
 TITLE	DISK3 - Disk utility routines

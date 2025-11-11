@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	90,132			;A2
 	TITLE	GRTABCF - CANADIAN FRENCH CHARACTER SET FOR GRAFTABL COMMAND
 ;This module is to be linked with the OBJ of GRTAB.SAL.  Refer to the

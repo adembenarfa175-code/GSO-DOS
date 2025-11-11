@@ -1,3 +1,5 @@
+BITS 64
+
 	PAGE	,132			;AN000;
 	TITLE	TREEPAR.SAL - PARSE THE DOS COMMAND LINE ;AN000;
 ;****************** START OF SPECIFICATIONS *****************************

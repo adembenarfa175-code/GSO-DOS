@@ -1,3 +1,5 @@
+BITS 64
+
 	TITLE	SYS-2-	Program
 	include version.inc
 	INCLUDE SYSHDR.INC
