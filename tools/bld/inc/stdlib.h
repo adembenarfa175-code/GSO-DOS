@@ -76,7 +76,7 @@ typedef struct {
 /* external variable declarations */
 
 extern int _NEAR _CDECL errno;              /* XENIX style error number */
-extern int _NEAR _CDECL _doserrno;          /* MS-DOS system error value */
+extern int _NEAR _CDECL _doserrno;          /* GSO-OS system error value */
 extern char * _NEAR _CDECL sys_errlist[];   /* perror error message table */
 extern int _NEAR _CDECL sys_nerr;           /* # of entries in sys_errlist table */
 

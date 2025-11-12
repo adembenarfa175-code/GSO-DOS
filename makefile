@@ -1,4 +1,4 @@
-# MAKEFILE الرئيسي لـ GSO-DOS
+# MAKEFILE الرئيسي لـ GSO-OS
 
 # ترتيب البناء الجديد: UEFI أولاً، ثم DOS والنظام الفرعي
 SUBSYSTEMS = UEFI DOS CMD DEV MAPPER MESSAGES

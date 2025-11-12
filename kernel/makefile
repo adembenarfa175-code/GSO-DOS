@@ -1,20 +1,19 @@
-# KERNEL/MAKEFILE لـ GSO-DOS
+# GSO-OS Kernel Makefile
 
 CC = x86_64-w64-mingw32-gcc
 CFLAGS = -Wall -Wextra -std=c99 -ffreestanding -m64
 
-KERNEL_OBJS = GSO_KERNEL.o COMPATIBILITY/gso_exec.o \
-              COMPATIBILITY/dos_loader.o COMPATIBILITY/elf_loader.o \
-              COMPATIBILITY/gxe_loader.o
+KERNEL_OBJS = gso_kernel.o compatibility/gso_exec.o \
+              compatibility/dos_loader.o compatibility/elf_loader.o \
+              compatibility/gxe_loader.o
 
-all: ../GSODOS.BIN
+all: ../gsoos.bin
 
-../GSODOS.BIN: $(KERNEL_OBJS)
-$(CC) $(CFLAGS) -T kernel.lds -o ../GSODOS.BIN $(KERNEL_OBJS) 
+../gsoos.bin: $(KERNEL_OBJS)
+$(CC) $(CFLAGS) -T kernel.lds -o ../gsoos.bin $(KERNEL_OBJS) 
 
 .c.o:
 $(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-rm -f *.o COMPATIBILITY/*.o ../GSODOS.BIN
-
+rm -f *.o compatibility/*.o ../gsoos.bin

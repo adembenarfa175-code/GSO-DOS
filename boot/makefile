@@ -1,25 +1,17 @@
-# BOOT/MAKEFILE لـ GSO-DOS (بناء UEFI 64-bit)
+# GSO-OS Bootloader Makefile
+# Targets: gsoboot.efi
 
-# تعريف المُجمِّع المُتقاطع 64-بت
-CC = x86_64-w64-mingw32-gcc
+CC      = x86_64-w64-mingw32-gcc
+CFLAGS  = -Wall -Wextra -std=c99 -ffreestanding -mno-red-zone
+LDFLAGS = -T gsoboot.lds -nostdlib
 
-# تعريف اسم ملف UEFI الناتج
-EFI_FILE = GSOBOOT.EFI
+all: gsoboot.efi
 
-# ملف المصدر C
-SOURCE = GSOBOOT.C
+gsoboot.efi: gsoboot.o
+$(CC) $(CFLAGS) $(LDFLAGS) -o $@ gsoboot.o
 
-# الإعدادات القياسية لبناء UEFI (قد تتطلب تكييفًا مع حزمة SDK الفعلية)
-CFLAGS = -Wall -Wextra -Werror -std=c99 -ffreestanding -fno-stack-protector -mno-red-zone -m64 -I/usr/include/efi
-LDFLAGS = -nostdlib -Wl,-dll -Wl,--subsystem,10 -Wl,--entry,efi_main -T gsoboot.lds
-
-# المكتبات (يجب أن تكون موجودة في بيئة البناء)
-UEFI_LIBS = -l:libefi.a -l:libgnuefi.a
-
-all: $(EFI_FILE)
-
-$(EFI_FILE): $(SOURCE)
-$(CC) $(CFLAGS) $(SOURCE) -o $(EFI_FILE) $(LDFLAGS) $(UEFI_LIBS)
+gsoboot.o: gsoboot.c
+$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-rm -f $(EFI_FILE)
+rm -f *.o gsoboot.efi

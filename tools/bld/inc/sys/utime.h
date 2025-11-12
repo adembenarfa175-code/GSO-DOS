@@ -5,7 +5,7 @@
 *
 *Purpose:
 *   This file defines the structure used by the utime routine to set
-*   new file access and modification times.  NOTE - MS-DOS
+*   new file access and modification times.  NOTE - GSO-OS
 *   does not recognize access time, so this field will
 *   always be ignored and the modification time field will be
 *   used to set the new time.

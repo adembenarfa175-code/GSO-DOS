@@ -4,17 +4,18 @@
 #include <stdint.h>
 #include <stddef.h>
 
-// تعريف أنواع البيانات التي سيتم تمريرها من UEFI Bootloader
+// Data types passed from UEFI Bootloader
 typedef uint64_t gso_ptr_t;
 
-// تهيئة التيرمينال الأساسي للطباعة
+// Terminal and Memory Management
+void gso_print(const char* message);
 void gso_terminal_init(gso_ptr_t screen_info_ptr);
-// تهيئة إدارة الذاكرة
 void gso_memory_init(gso_ptr_t memory_map_ptr);
-// تهيئة مدير العمليات و GSO-EXEC
+
+// Process Management and Execution Manager (GSO-EXEC)
 void gso_process_manager_start(const char* shell_path);
 
-// نقطة الدخول الرئيسية للنواة
+// Main Kernel Entry Point
 void kernel_main(gso_ptr_t memory_map_ptr, gso_ptr_t screen_info_ptr);
 
 #endif // GSO_KERNEL_H

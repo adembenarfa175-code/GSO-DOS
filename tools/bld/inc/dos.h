@@ -1,5 +1,5 @@
 /***
-*dos.h - definitions for MS-DOS interface routines
+*dos.h - definitions for GSO-OS interface routines
 *
 *   Copyright (c) 1985-1988, GSO Corporation.  All rights reserved.
 *

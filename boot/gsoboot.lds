@@ -1,15 +1,20 @@
-OUTPUT_FORMAT(pei-x86-64)
+OUTPUT_FORMAT("efi-app-x86_64")
+OUTPUT_ARCH(i386:x86-64)
 ENTRY(efi_main)
 
 SECTIONS
 {
-  .text 0x200000 : {
-    *(.text)
-    *(.data)
-    *(.rodata)
-  }
-  .bss : {
-    *(.bss)
-  }
+    .text :
+    {
+        *(.text)
+        *(.rodata)
+    } = 0
+    .data :
+    {
+        *(.data)
+    }
+    .bss :
+    {
+        *(.bss)
+    }
 }
-
