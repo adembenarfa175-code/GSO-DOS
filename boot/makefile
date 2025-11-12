@@ -1,4 +1,4 @@
-# GSO-DOS Bootloader Makefile
+# GSO-OS Bootloader Makefile
 # Targets: gsoboot.efi
 
 CC      = x86_64-w64-mingw32-gcc

@@ -1,4 +1,4 @@
-; uefi/uefi_gcon.asm - GSO-DOS UEFI Graphics Console Module
+; uefi/uefi_gcon.asm - GSO-OS UEFI Graphics Console Module
 ; Handles screen output using UEFI services (64-bit)
 
 BITS 64

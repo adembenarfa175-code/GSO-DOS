@@ -1,4 +1,4 @@
-; uefi/uefi_init.asm - GSO-DOS Low-Level Initialization
+; uefi/uefi_init.asm - GSO-OS Low-Level Initialization
 ; Prepares environment for the C kernel main function
 
 BITS 64

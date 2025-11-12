@@ -10,7 +10,7 @@ void gso_print(const char* message) {
 void kernel_main(gso_ptr_t memory_map_ptr, gso_ptr_t screen_info_ptr) {
 
     gso_terminal_init(screen_info_ptr);
-    gso_print("GSO-DOS Kernel V2.0: Starting 64-bit Long Mode...\n");
+    gso_print("GSO-OS Kernel V2.0: Starting 64-bit Long Mode...\n");
 
     gso_memory_init(memory_map_ptr);
     

@@ -1,7 +1,7 @@
 /**
- * GSOBOOT.C - GSO-DOS V2.0 UEFI Bootloader
+ * GSOBOOT.C - GSO-OS V2.0 UEFI Bootloader
  * ----------------------------------------
- * Role: Initializes the UEFI environment, loads the GSO-DOS Kernel (GSODOS.BIN)
+ * Role: Initializes the UEFI environment, loads the GSO-OS Kernel (GSODOS.BIN)
  * and transfers control to the 64-bit kernel entry point.
  */
 #include <efi.h>
@@ -18,7 +18,7 @@ efi_main (EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable)
     InitializeLib(ImageHandle, SystemTable);
     
     // Print startup message
-    Print(L"GSO-DOS UEFI Bootloader V2.0 starting...\n");
+    Print(L"GSO-OS UEFI Bootloader V2.0 starting...\n");
     
     // --- Step 1: Load Kernel Image ---
     // (Placeholder for file loading logic)

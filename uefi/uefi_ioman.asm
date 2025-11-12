@@ -1,4 +1,4 @@
-; uefi/uefi_ioman.asm - GSO-DOS UEFI Input/Output Manager
+; uefi/uefi_ioman.asm - GSO-OS UEFI Input/Output Manager
 ; Low-level routines for disk/keyboard I/O (using UEFI services)
 
 BITS 64

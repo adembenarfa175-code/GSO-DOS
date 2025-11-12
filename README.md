@@ -1,8 +1,8 @@
-# GSO-DOS V2.0.0: The Modern 64-bit DOS
+# GSO-OS V2.0.0: The Modern 64-bit DOS
 
 ## 🚀 Overview
 
-GSO-DOS is an open-source project to revive and modernize the classic **MS-DOS** operating system, transitioning it from the old 16-bit BIOS-based architecture to a modern **64-bit** **UEFI**-based one.
+GSO-OS is an open-source project to revive and modernize the classic **MS-DOS** operating system, transitioning it from the old 16-bit BIOS-based architecture to a modern **64-bit** **UEFI**-based one.
 
 The goal is to build an OS that offers full compatibility with old DOS programs (`.COM`, old `.EXE`) while supporting modern 64-bit applications (`.ELF`, `.GXE`).
 
@@ -19,13 +19,13 @@ The goal is to build an OS that offers full compatibility with old DOS programs 
 ## 🏗️ Project Structure
 
 * **`boot/`**: Contains the UEFI Bootloader code.
-* **`kernel/`**: The core GSO-DOS Kernel.
+* **`kernel/`**: The core GSO-OS Kernel.
 * **`kernel/compatibility/`**: The **GSO-EXEC** layer for executable handling.
 * **`cmd/`**: Classic DOS commands (being adapted for 64-bit).
 
 ## 🛠️ Building
 
-GSO-DOS requires a **Cross-Compiler** targeting x86-64 (e.g., `x86_64-w64-mingw32-gcc`):
+GSO-OS requires a **Cross-Compiler** targeting x86-64 (e.g., `x86_64-w64-mingw32-gcc`):
 
 1.  **Initialize:** (Ensure tools are installed).
 2.  **Build:** Navigate to the root (`gso-dos`) and run:
