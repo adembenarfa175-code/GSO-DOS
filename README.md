@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-GSO-OS is an open-source project to revive and modernize the classic **MS-DOS** operating system, transitioning it from the old 16-bit BIOS-based architecture to a modern **64-bit** **UEFI**-based one.
+GSO-OS is an open-source project to revive and modernize the classic **GSO-OS** operating system, transitioning it from the old 16-bit BIOS-based architecture to a modern **64-bit** **UEFI**-based one.
 
 The goal is to build an OS that offers full compatibility with old DOS programs (`.COM`, old `.EXE`) while supporting modern 64-bit applications (`.ELF`, `.GXE`).
 
